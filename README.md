@@ -79,6 +79,6 @@ sudo wget https://download.docker.com/linux/ubuntu/dists/jammy/pool/stable/amd64
 sudo dpkg -i docker-ce-cli_20.10.133-0ubuntu-jammy_amd64.deb
 sudo dpkg -r docker-ce-cli
 ```
-5.  Выложить [историю](#CommandUbuntu.txt) команд в терминале ubuntu
+5.  Выложить [историю](https://github.com/ViO-L/certification_28_10/blob/main/CommandUbuntu.txt) команд в терминале ubuntu
 
 ` history > CommandUbuntu.txt`
