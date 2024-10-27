@@ -277,4 +277,5 @@ LEFT JOIN yang_animal ya ON ya.Name = hm.Name
 LEFT JOIN home_animals ha ON ha.Id = hm.Genus_id;
 ```
 13. [Создать класс с Инкапсуляцией методов и наследованием](System/scr/Model) по [диаграмме](Diagramm.drawio.png). 
-14.
+14. [Написать программу, имитирующую работу реестра домашних животных.](System/scr)
+15. [Создайте класс Счетчик](System/scr/Controller/)
