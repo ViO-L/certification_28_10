@@ -1,4 +1,5 @@
-﻿package Model;
+﻿package System.scr.Model;
+
 
 import java.time.LocalDate;
 

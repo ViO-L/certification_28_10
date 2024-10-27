@@ -1,4 +1,4 @@
-﻿package Model;
+﻿package System.scr.Model;
 
 public class PetCreator extends Creator {
 

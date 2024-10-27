@@ -1,7 +1,7 @@
-﻿package Model;
+package System.scr.Model;
 
-public class Hamster extends Pet{
+public class Dog extends Pet {
 
-    public Hamster() {
+    public Dog() {
     }
 }
